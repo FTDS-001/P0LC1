@@ -37,7 +37,7 @@ Kamu adalah seorang data scientist yang bekerja di salah satu perusahaan manufak
 - I adalah kuat arus dalam satuan Ampere
 - V adalah tegangan dalam satuan Volt
 
-Hitung kapasitas baterai tiap waktunya untuk cycle ganjil dan daya baterai tiap waktunya untuk cycle genap dari dataset dengan ketentuan sebagai berikut:
+Hitung hambatan baterai tiap waktunya untuk cycle ganjil dan daya baterai tiap waktunya untuk cycle genap dari dataset dengan ketentuan sebagai berikut:
 1. Gunakan function untuk menghitung hambatan dan daya
 2. **Harus** menerapkan konsep looping, conditional if, dan pandas query
 
@@ -51,6 +51,9 @@ Dataset dapat diakses pada link berikut: https://github.com/fahmimnalfrzki/Datas
 - Current (A): Kuat arus terukur tiap waktu
 - Cycle: Nomor siklus charge-discharge baterai
 - Cap: Kapasitas baterai tiap waktu
+
+
+*Kumpulkan assignment dengan nama file h8_p0lc1.ipynb
 
 ---
 
