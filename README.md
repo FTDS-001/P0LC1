@@ -32,7 +32,7 @@ Kamu adalah seorang data scientist yang bekerja di salah satu perusahaan manufak
 
 <p align="center"><img src="https://latex.codecogs.com/png.latex?P=VI" title="P=VI" class="center" /></p>
 
-- R adalah Kapasitas dalam satuan Ohm
+- R adalah Hambatan dalam satuan Ohm
 - P adalah Daya dalam Watt
 - I adalah kuat arus dalam satuan Ampere
 - V adalah tegangan dalam satuan Volt
