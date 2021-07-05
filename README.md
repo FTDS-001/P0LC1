@@ -53,7 +53,7 @@ Dataset dapat diakses pada link berikut: https://github.com/fahmimnalfrzki/Datas
 - Cap: Kapasitas baterai tiap waktu
 
 
-*Kumpulkan assignment dengan nama file h8_p0lc1.ipynb
+*Kumpulkan assignment dengan nama file h8_p0lc1_NAMA.ipynb*
 
 ---
 
